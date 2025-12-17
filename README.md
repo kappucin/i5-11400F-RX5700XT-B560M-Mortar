@@ -1,0 +1,2 @@
+# i5-11400F-RX5700XT-B560M-Mortar
+OpenCore EFI
